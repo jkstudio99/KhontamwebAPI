@@ -1,6 +1,3 @@
-# Saving the README content for KhontamWebAPI as a markdown file
-
-api_readme_content = """
 # KhontamWebAPI
 
 `KhontamWebAPI` is a backend API for managing product data, designed to interact with the `KhontamwebAngularTest-V.1.0.0` front-end application. This API provides CRUD operations for managing products, with data stored in a MySQL database and media files handled by Cloudinary.
